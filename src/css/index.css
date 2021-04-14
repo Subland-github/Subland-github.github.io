@@ -1,0 +1,17 @@
+article, aside, details, figcaption, figure, header, hgroup, menu, nav, section {
+display: block;
+}
+/*一度しか使用しないウェブサイトのフレーム設定-----------------*/
+#wrap {
+margin:auto;
+  height:auto;
+  width:auto;
+  background-color:#EEEEEE;
+  background: radial-gradient(#f0f8ff, #fffafa);
+  /* background-color:white;*/
+}
+/*------------------------------*/
+
+html {
+  background: #eee;
+}

@@ -1,0 +1,16 @@
+h1{
+  font-size:1.3em;
+}
+nav {
+  background-color: #99bdff;
+}
+
+.scroll_button a{
+  position: fixed;
+  display: block;
+  right:0px;
+  bottom:50px;
+  background: red;
+  color:#fff;
+  padding:0px;
+}
